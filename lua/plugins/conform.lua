@@ -3,7 +3,7 @@ return {
 	opts = {
 		formatters = {
 			phpcbf_gitmodified = {
-				command = "phpcbf",
+				command = "vendor/bin/phpcbf",
 				args = { "-p", "--filter=GitModified" },
 				stdin = false, -- phpcbf does not support stdin
 			},
