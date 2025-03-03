@@ -44,6 +44,7 @@ return {
 			"regex",
 			"toml",
 			"tsx",
+			"twig",
 			"typescript",
 			"vim",
 			"vimdoc",

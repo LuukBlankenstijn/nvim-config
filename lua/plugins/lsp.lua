@@ -95,7 +95,7 @@ return {
 					},
 				},
 				phpactor = {
-					enabled = false,
+					enabled = true,
 				},
 				intelephense = {
 					enabled = true,
